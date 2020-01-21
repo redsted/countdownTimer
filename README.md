@@ -1,2 +1,0 @@
-# countdownTimer
-Created with CodeSandbox
